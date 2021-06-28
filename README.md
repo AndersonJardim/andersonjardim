@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a developer focused on creating solutions.
+Eu sou um desenvolvedor focado em ciar soluções
+
 <!--
 **AndersonJardim/andersonjardim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
