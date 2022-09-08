@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I’m Anderson Jardim.
 
 <p align="left"> 
 I am a developer focused on creating solutions.
@@ -11,6 +11,7 @@ Eu sou um desenvolvedor focado em ciar soluções.
 - 🌱 I’m currently learning ...
 
 <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" align="center" alt="Rafa-Csharp" height="30" width="40" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
@@ -38,3 +39,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:andersonjardim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-jardim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/aAndersonJardim/andersonjardim/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
