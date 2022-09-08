@@ -1,12 +1,10 @@
 ### Hi there 👋, I’m Anderson Jardim.
-
-<p align="left"> 
-I am a developer focused on creating solutions.
-</p>
+### I am a developer focused on creating solutions.
 
 <p align="left">  
 Eu sou um desenvolvedor focado em ciar soluções.
 </p>
+
 
 - 🌱 I’m currently learning ...
 
@@ -42,14 +40,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  
+  ##
+ 
+ 
+<div> 
+  <a href="mailto:andersonjardim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-jardim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
   
   ##
  
 <div> 
-  <a href = "mailto:andersonjardim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anderson-jardim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ </div>
