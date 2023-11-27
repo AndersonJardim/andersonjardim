@@ -2,7 +2,7 @@
 ### I am a developer focused on creating solutions.
 
 <p align="left">  
-Eu sou um desenvolvedor focado em ciar soluções.
+Sou um desenvolvedor focado em ciar soluções.
 </p>
 
 
